@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\migbo\\OneDrive\\Desktop\\PROJETOS\\VS\\Tests\\NewTalents\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6616B2D0-E54A-4DE6-87E4-34438AAA89F9}|NewTalents.csproj|c:\\users\\migbo\\onedrive\\desktop\\projetos\\vs\\tests\\newtalents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6616B2D0-E54A-4DE6-87E4-34438AAA89F9}|NewTalents.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686C6458-E1FD-4E5A-8162-CF3BFB9EF2C2}|..\\TestNewTalents\\TestNewTalents.csproj|c:\\users\\migbo\\onedrive\\desktop\\projetos\\vs\\tests\\testnewtalents\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6616B2D0-E54A-4DE6-87E4-34438AAA89F9}|NewTalents.csproj|c:\\users\\migbo\\onedrive\\desktop\\projetos\\vs\\tests\\newtalents\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6616B2D0-E54A-4DE6-87E4-34438AAA89F9}|NewTalents.csproj|solutionrelative:calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686C6458-E1FD-4E5A-8162-CF3BFB9EF2C2}|..\\TestNewTalents\\TestNewTalents.csproj|c:\\users\\migbo\\onedrive\\desktop\\projetos\\vs\\tests\\testnewtalents\\testnewtalents.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestNewTalents",
+              "DocumentMoniker": "C:\\Users\\migbo\\OneDrive\\Desktop\\PROJETOS\\VS\\Tests\\TestNewTalents\\TestNewTalents.csproj",
+              "RelativeDocumentMoniker": "..\\TestNewTalents\\TestNewTalents.csproj",
+              "ToolTip": "C:\\Users\\migbo\\OneDrive\\Desktop\\PROJETOS\\VS\\Tests\\TestNewTalents\\TestNewTalents.csproj",
+              "RelativeToolTip": "..\\TestNewTalents\\TestNewTalents.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-03T20:15:33.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\migbo\\OneDrive\\Desktop\\PROJETOS\\VS\\Tests\\NewTalents\\Calculadora.cs",
+              "RelativeDocumentMoniker": "Calculadora.cs",
+              "ToolTip": "C:\\Users\\migbo\\OneDrive\\Desktop\\PROJETOS\\VS\\Tests\\NewTalents\\Calculadora.cs",
+              "RelativeToolTip": "Calculadora.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAIwDoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T20:14:48.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\migbo\\OneDrive\\Desktop\\PROJETOS\\VS\\Tests\\TestNewTalents\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\TestNewTalents\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\migbo\\OneDrive\\Desktop\\PROJETOS\\VS\\Tests\\TestNewTalents\\UnitTest1.cs",
+              "RelativeToolTip": "..\\TestNewTalents\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T20:14:09.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\migbo\\OneDrive\\Desktop\\PROJETOS\\VS\\Tests\\NewTalents\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\migbo\\OneDrive\\Desktop\\PROJETOS\\VS\\Tests\\NewTalents\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T20:12:56.18Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
